@@ -1,12 +1,7 @@
-to_translate/
-others/
-message.html
-**/preparation
+*solution.ipynb
 .ipynb_checkpoints
 .DS_Store
-.virtual_documents
-utils.ipynb
-solutions/
-course/
-utils/
-show/
+99_Extras/
+others/
+11_What Is Next/
+00_Introduction/
