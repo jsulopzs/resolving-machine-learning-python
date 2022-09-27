@@ -32,14 +32,3 @@ To download the materials, you have three options:
     ```
 
 3. Download the materials as a [zip folder](https://github.com/jsulopz/machine-learning/archive/refs/heads/main.zip).
-
-### Interacting with the Materials
-
-1. Each folder represents a chapter.
-2. Each chapter may contain up to 6 types of files:
-    1. `x_topic-y_**syllabus**.ipynb` to understand the practical use case and the concepts you will uncover as you interact with the chapter.
-    2. `x_topic-y_**session_blank**.ipynb` to develop the solutions of the session notebook.
-    3. `x_topic-y_**session_solution**.ipynb` to uncover the solutions of the session notebook.
-    4. `x_topic-y_**practice_blank**.ipynb` to develop the solutions of the practice notebook.
-    5. `x_topic-y_**practice_solution**.ipynb` to uncover the solutions of the practice notebook.
-    6. `instructions.md` to follow a series of steps to complete the chapter.
