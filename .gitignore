@@ -10,5 +10,6 @@ others/
 Extras/
 Curiosity x Learning/
 *video*.ipynb
-*syllabus.ipynb
-*article.ipynb
+*syllabus*
+*article*
+article.md
