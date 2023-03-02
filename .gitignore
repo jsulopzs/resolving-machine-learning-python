@@ -1,0 +1,18 @@
+*solution.ipynb
+.ipynb_checkpoints
+.DS_Store
+99_Extras/
+others/
+11_What Is Next/
+00_Introduction/
+!01_Machine Learning & Linear Regression/*
+*Recordings/
+Extras/
+Curiosity x Learning/
+*video*.ipynb
+*syllabus*
+*article*
+article.md
+Promotional Content
+*B*.ipynb
+*D*.ipynb
