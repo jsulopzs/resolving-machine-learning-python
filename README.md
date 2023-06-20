@@ -2,7 +2,7 @@
 
 This repository contains the exercises you'll work during the course "Resolving Python for Machine Learning with Scikit-Learn".
 
-You may use the exercises to practice on your own; challenges and datasets are provided.
+You may use the exercises to practice on your own; challenges, datasets and solutions are provided.
 
 Within every folder, you will find 2 types of Jupyter Notebooks:
 
